@@ -1,0 +1,23 @@
+﻿  10_codeQuestion.cpp
+  09_processTest.cpp
+  08_binaryDataInsert.cpp
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\08_binarydatainsert.cpp(70): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\08_binarydatainsert.cpp(86): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\08_binarydatainsert.cpp(98): warning C4244: “+=”: 从“std::streamsize”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\08_binarydatainsert.cpp(107): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  07_testInsertSpeed.cpp
+  06_transaction.cpp
+  05_batchSqlOperation.cpp
+  04_tableOperation.cpp
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\04_tableoperation.cpp(76): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\04_tableoperation.cpp(90): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\04_tableoperation.cpp(112): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\04_tableoperation.cpp(127): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+  03_fieldStruct.cpp
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\03_fieldstruct.cpp(44): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  02_query.cpp
+d:\test_code\2.c++_test(vs2015)\mysqltest\mysqltest\02_query.cpp(44): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  01_connect.cpp
+  正在生成代码...
+  mySqlTest.vcxproj -> D:\Test_Code\2.C++_test(vs2015)\mySqlTest\x64\Debug\mySqlTest.exe
+  mySqlTest.vcxproj -> D:\Test_Code\2.C++_test(vs2015)\mySqlTest\x64\Debug\mySqlTest.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  01_tcpServer.cpp
+d:\test_code\2.c++_test(vs2015)\sockettest\sockettest\01_tcpserver.cpp(22): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\sockettest\sockettest\01_tcpserver.cpp(45): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\sockettest\sockettest\01_tcpserver.cpp(97): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+  socketTest.vcxproj -> D:\Test_Code\2.C++_test(vs2015)\socketTest\x64\Debug\socketTest.exe
+  socketTest.vcxproj -> D:\Test_Code\2.C++_test(vs2015)\socketTest\x64\Debug\socketTest.pdb (Full PDB)

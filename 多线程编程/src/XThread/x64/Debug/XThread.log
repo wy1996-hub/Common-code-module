@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  XTread.cpp
+c:\users\wang\desktop\多线程编程\src\xthread\xtread.cpp(30): warning C4244: “=”: 从“uintptr_t”转换到“unsigned int”，可能丢失数据
+c:\users\wang\desktop\多线程编程\src\xthread\xtread.cpp(43): warning C4312: “类型转换”: 从“unsigned int”转换到更大的“HANDLE”
+c:\users\wang\desktop\多线程编程\src\xthread\xtread.cpp(52): warning C4312: “类型转换”: 从“unsigned int”转换到更大的“HANDLE”
+c:\users\wang\desktop\多线程编程\src\xthread\xtread.cpp(61): warning C4312: “类型转换”: 从“unsigned int”转换到更大的“HANDLE”
+  XMutex.cpp
+  正在生成代码...
+    正在创建库 ..\..\lib\XThread.lib 和对象 ..\..\lib\XThread.exp
+  XThread.vcxproj -> C:\Users\Wang\Desktop\多线程编程\src\XThread\..\..\bin\XThread.dll
+  XThread.vcxproj -> ..\..\bin\XThread.pdb (Full PDB)

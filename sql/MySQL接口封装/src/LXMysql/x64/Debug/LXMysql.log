@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  LXMysql.cpp
+d:\test_code\2.c++_test(vs2015)\mysql\mysql接口封装\src\lxmysql\lxmysql.cpp(285): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysql\mysql接口封装\src\lxmysql\lxmysql.cpp(341): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysql\mysql接口封装\src\lxmysql\lxmysql.cpp(425): warning C4244: “return”: 从“my_ulonglong”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysql\mysql接口封装\src\lxmysql\lxmysql.cpp(475): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysql\mysql接口封装\src\lxmysql\lxmysql.cpp(499): warning C4244: “return”: 从“my_ulonglong”转换到“int”，可能丢失数据
+  LXData.cpp
+d:\test_code\2.c++_test(vs2015)\mysql\mysql接口封装\src\lxmysql\lxdata.cpp(27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysql\mysql接口封装\src\lxmysql\lxdata.cpp(49): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\test_code\2.c++_test(vs2015)\mysql\mysql接口封装\src\lxmysql\lxdata.cpp(65): warning C4244: “+=”: 从“std::streamsize”转换到“int”，可能丢失数据
+  正在生成代码...
+  LINK : 没有找到 ..\..\bin\LXMysql.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 ..\..\lib\LXMysql.lib 和对象 ..\..\lib\LXMysql.exp
+  LXMysql.vcxproj -> D:\Test_Code\2.C++_test(vs2015)\MySQL\MySQL接口封装\src\LXMysql\..\..\bin\LXMysql.dll
+  LXMysql.vcxproj -> ..\..\bin\LXMysql.pdb (Full PDB)

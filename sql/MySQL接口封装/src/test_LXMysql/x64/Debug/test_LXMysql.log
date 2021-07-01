@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdTest_LXMysql.cpp
+  brefTest_LXMysql.cpp
+  正在生成代码...
+  LINK : 没有找到 ..\..\bin\test_LXMysql.exe 或上一个增量链接没有生成它；正在执行完全链接
+  test_LXMysql.vcxproj -> D:\Test_Code\2.C++_test(vs2015)\MySQL\MySQL接口封装\src\test_LXMysql\..\..\bin\test_LXMysql.exe
+  test_LXMysql.vcxproj -> ..\..\bin\test_LXMysql.pdb (Full PDB)

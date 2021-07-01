@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  test_XThread.cpp
+  test_Mutex.cpp
+  正在生成代码...
+  test_XThread.vcxproj -> C:\Users\Wang\Desktop\多线程编程\src\test_XThread\..\..\bin\test_XThread.exe
+  test_XThread.vcxproj -> ..\..\bin\test_XThread.pdb (Full PDB)

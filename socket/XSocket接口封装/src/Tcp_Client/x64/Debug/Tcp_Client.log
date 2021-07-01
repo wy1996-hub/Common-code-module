@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  client.cpp
+c:\users\wang\desktop\xsocket接口封装\src\tcp_client\client.cpp(31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Tcp_Client.vcxproj -> C:\Users\Wang\Desktop\XSocket接口封装\src\Tcp_Client\..\..\bin\Tcp_Client.exe
+  Tcp_Client.vcxproj -> ..\..\bin\Tcp_Client.pdb (Full PDB)
