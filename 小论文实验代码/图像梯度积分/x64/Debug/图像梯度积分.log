@@ -1,0 +1,22 @@
+﻿  源.cpp
+  LBPFeatureExtraction.cpp
+e:\workspace\cplusplus\小论文1\图像梯度积分\lbpfeatureextraction.cpp(71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\lbpfeatureextraction.cpp(72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\lbpfeatureextraction.cpp(72): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\lbpfeatureextraction.cpp(83): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\lbpfeatureextraction.cpp(92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\lbpfeatureextraction.cpp(92): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  HogFeatureExtraction.cpp
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(85): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(119): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(120): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(138): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(143): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\workspace\cplusplus\小论文1\图像梯度积分\hogfeatureextraction.cpp(204): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  图像梯度积分.vcxproj -> E:\workspace\cplusplus\小论文1\小论文车辆分类实验\x64\Debug\图像梯度积分.exe
+  图像梯度积分.vcxproj -> E:\workspace\cplusplus\小论文1\小论文车辆分类实验\x64\Debug\图像梯度积分.pdb (Full PDB)
